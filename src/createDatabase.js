@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
-const Subscriber = require('./models/subscribers');
-const data = require('./data');
+const Subscriber = require('./models/subscribers.js');
+const data = require('./data.js');
 require('dotenv').config()
 
 const DATABASE_URL = process.env.MONGO_URI;
