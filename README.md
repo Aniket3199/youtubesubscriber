@@ -9,6 +9,16 @@ A simple Node.js application using MongoDB to manage subscriber data.
 - Retrieve all subscribers
 - Retrieve subscribers by name and channel
 - Retrieve a subscriber by ID
+  
+
+# Technologies Used
+- Fronted:HTML CSS
+
+- Backend:node.js,Express.js,Mongoose
+
+- Database:Mongodb
+- API: Custom API for fetching Subscriber Data
+  
 
 ## Getting Started
 
@@ -32,6 +42,8 @@ A simple Node.js application using MongoDB to manage subscriber data.
 
 4. Create the database and insert initial data:
     node src/createDatabase.js
+   #Link
+   Deployedlink:
 
 ### Running the Application
 
