@@ -12,10 +12,12 @@ A simple Node.js application using MongoDB to manage subscriber data.
   
 
 # Technologies Used
--Fronted:HTML CSS
--Backend:node.js,Express.js,Mongoose
--Database:Mongodb
--API: Custom API for fetching Subscriber Data
+- Fronted:HTML CSS
+
+- Backend:node.js,Express.js,Mongoose
+
+- Database:Mongodb
+- API: Custom API for fetching Subscriber Data
   
 
 ## Getting Started
