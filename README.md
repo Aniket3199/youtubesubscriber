@@ -12,7 +12,7 @@ A simple Node.js application using MongoDB to manage subscriber data.
   
 
 # Technologies Used
-- Fronted:HTML CSS
+- Fronted:HTML 
 
 - Backend:node.js,Express.js,Mongoose
 
