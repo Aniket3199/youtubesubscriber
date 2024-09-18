@@ -59,6 +59,6 @@ A simple Node.js application using MongoDB to manage subscriber data.
     GET /subscribers/names: Retrieve subscribers with only names and subscribed channels
     GET /subscribers/:id: Retrieve a subscriber by ID
 ### Deployed Link
-      https://youtubesubscriber-3.onrender.com/
+https://youtubesubscriber-3.onrender.com/
 ### Deployed by
       Aniket Tembhurne
